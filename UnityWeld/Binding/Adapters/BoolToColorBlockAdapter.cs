@@ -1,6 +1,6 @@
 ﻿using UnityEngine.UI;
 
-namespace UnityWeld.Binding.Adapters
+namespace Weld.Binding.Adapters
 {
     /// <summary>
     /// Adapter for converting from a bool to a Unity color.

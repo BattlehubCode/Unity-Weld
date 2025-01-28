@@ -1,6 +1,6 @@
 using System;
 
-namespace UnityWeld.Ioc
+namespace Weld.Ioc
 {
     /// <summary>
     /// Class use: Marks the class to be used as WeldContainer, and it will be responsible for creating the adapter instances

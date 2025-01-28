@@ -1,7 +1,7 @@
 using System;
 using System.Collections;
 
-namespace UnityWeld.Binding
+namespace Weld.Binding
 {
     /// <summary>
     /// A list that exposes the type of its items as a property.

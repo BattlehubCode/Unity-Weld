@@ -1,7 +1,7 @@
 using System;
-using UnityWeld.Binding;
+using Weld.Binding;
 
-namespace UnityWeld.Ioc
+namespace Weld.Ioc
 {
     /// <summary>
     /// Implementation of IWeldContainerIoC to be used by defaults if no other type has been specified by WeldContainerAttribute

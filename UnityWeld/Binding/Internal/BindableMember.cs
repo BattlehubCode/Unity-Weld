@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace UnityWeld.Binding.Internal
+namespace Weld.Binding.Internal
 {
     /// <summary>
     /// Data structure combining a bindable property or method with the view model it belongs 

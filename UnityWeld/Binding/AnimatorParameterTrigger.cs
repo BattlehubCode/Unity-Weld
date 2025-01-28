@@ -1,6 +1,6 @@
 using System.ComponentModel;
 
-namespace UnityWeld.Binding
+namespace Weld.Binding
 {
     public class AnimatorParameterTrigger : INotifyPropertyChanged
     {

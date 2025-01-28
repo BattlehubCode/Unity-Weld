@@ -1,7 +1,7 @@
 using UnityEngine;
-using UnityWeld.Binding.Internal;
+using Weld.Binding.Internal;
 
-namespace UnityWeld.Binding
+namespace Weld.Binding
 {
     /// <summary>
     /// Bind to a boolean property on the view model and turn all child objects on

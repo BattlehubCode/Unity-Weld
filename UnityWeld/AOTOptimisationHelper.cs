@@ -1,13 +1,13 @@
-﻿using UnityEngine;
+using UnityEngine;
 using UnityEngine.EventSystems;
-using UnityWeld.Binding.Internal;
+using Weld.Binding.Internal;
 // ReSharper disable UnusedMember.Global
 // ReSharper disable UnusedMember.Local
 // ReSharper disable UnusedVariable
 
 #pragma warning disable 219 // Disable warning that variable is never used
 
-namespace UnityWeld
+namespace Weld
 {
     /// <summary>
     /// In order for certain generic types to not be optimised-out by IL2CPP for

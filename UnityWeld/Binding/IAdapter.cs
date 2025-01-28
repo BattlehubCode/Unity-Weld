@@ -1,4 +1,4 @@
-﻿namespace UnityWeld.Binding
+﻿namespace Weld.Binding
 {
     /// <summary>
     /// Base interface for all adapters. Combine with AdapterAttribute to specify 

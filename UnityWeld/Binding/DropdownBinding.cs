@@ -2,9 +2,9 @@ using System;
 using System.Linq;
 using UnityEngine;
 using UnityEngine.UI;
-using UnityWeld.Binding.Internal;
+using Weld.Binding.Internal;
 
-namespace UnityWeld.Binding
+namespace Weld.Binding
 {
     [RequireComponent(typeof(Dropdown))]
     [AddComponentMenu("Unity Weld/Dropdown Binding")]

@@ -4,10 +4,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using UnityEngine;
-using UnityWeld.Binding.Exceptions;
-using UnityWeld.Ioc;
+using Weld.Binding.Exceptions;
+using Weld.Ioc;
 
-namespace UnityWeld.Binding.Internal
+namespace Weld.Binding.Internal
 {
     /// <summary>
     /// Helper class for setting up the factory for use in the editor.

@@ -3,7 +3,7 @@ using UnityEditor;
 using UnityEditor.SceneManagement;
 using UnityEngine;
 
-namespace UnityWeld_Editor
+namespace Weld_Editor
 {
     /// <summary>
     /// Common utilities for custom inspectors.

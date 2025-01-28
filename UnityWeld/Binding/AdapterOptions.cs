@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace UnityWeld.Binding
+namespace Weld.Binding
 {
     /// <summary>
     /// Base class for adapter options.

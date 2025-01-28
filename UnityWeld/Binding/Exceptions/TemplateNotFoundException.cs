@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UnityWeld.Binding.Exceptions
+namespace Weld.Binding.Exceptions
 {
     /// <summary>
     /// Thrown when the necessary template for a TemplateBinding or CollectionBinding 

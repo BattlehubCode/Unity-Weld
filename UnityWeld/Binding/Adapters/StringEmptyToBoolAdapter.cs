@@ -1,4 +1,4 @@
-namespace UnityWeld.Binding.Adapters
+namespace Weld.Binding.Adapters
 {
     /// <summary>
     /// String to bool adapter that returns false if the string is null or empty, 

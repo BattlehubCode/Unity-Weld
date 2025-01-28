@@ -1,8 +1,8 @@
 using UnityEngine;
-using UnityWeld.Binding.Exceptions;
-using UnityWeld.Binding.Internal;
+using Weld.Binding.Exceptions;
+using Weld.Binding.Internal;
 
-namespace UnityWeld.Binding
+namespace Weld.Binding
 {
     /// <summary>
     /// Bind a sub-view model which is a property on another view model for use in the UI.

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UnityWeld.Binding.Exceptions
+namespace Weld.Binding.Exceptions
 {
     /// <summary>
     /// Exception thrown when the requested component on a GameObject could not be found.

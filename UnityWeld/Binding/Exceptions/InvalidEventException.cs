@@ -1,6 +1,6 @@
-﻿using System;
+using System;
 
-namespace UnityWeld.Binding.Exceptions
+namespace Weld.Binding.Exceptions
 {
     /// <summary>
     /// Thrown when there is an error binding to a UnityEvent.

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UnityWeld.Binding
+namespace Weld.Binding
 {
     /// <summary>
     /// Interface for classes that generate collection changed events.

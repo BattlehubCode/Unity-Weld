@@ -1,9 +1,9 @@
 using System;
 using UnityEngine;
 using UnityEngine.Serialization;
-using UnityWeld.Binding.Internal;
+using Weld.Binding.Internal;
 
-namespace UnityWeld.Binding
+namespace Weld.Binding
 {
     /// <summary>
     /// Class for binding Unity UI events to methods in a view model.

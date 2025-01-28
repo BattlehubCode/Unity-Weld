@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 
-namespace UnityWeld.Binding
+namespace Weld.Binding
 {
     /// <summary>
     /// An observable list that is bound to source list.

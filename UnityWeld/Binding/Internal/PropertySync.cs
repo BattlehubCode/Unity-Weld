@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace UnityWeld.Binding.Internal
+namespace Weld.Binding.Internal
 {
     /// <summary>
     /// Syncrhonises the value between two properties using reflection.

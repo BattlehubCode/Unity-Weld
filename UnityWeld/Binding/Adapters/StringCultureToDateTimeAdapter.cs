@@ -1,7 +1,7 @@
 using System;
 using System.Globalization;
 
-namespace UnityWeld.Binding.Adapters
+namespace Weld.Binding.Adapters
 {
     /// <summary>
     /// Adapter for converting from a string to a DateTime, using a specified culture.

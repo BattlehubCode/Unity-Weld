@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UnityWeld.Binding.Exceptions
+namespace Weld.Binding.Exceptions
 {
     /// <summary>
     /// Specified type cannot be used as an adapter for the specified types or does not 

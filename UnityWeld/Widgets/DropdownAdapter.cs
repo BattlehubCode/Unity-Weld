@@ -3,9 +3,9 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
-using UnityWeld.Binding.Exceptions;
+using Weld.Binding.Exceptions;
 
-namespace UnityWeld.Widgets
+namespace Weld.Widgets
 {
     /// <summary>
     /// Adapter to set up and bind to a Dropdown using strings instead of OptionData.

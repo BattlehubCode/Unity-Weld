@@ -1,7 +1,7 @@
 using System;
-using UnityWeld.Binding;
+using Weld.Binding;
 
-namespace UnityWeld.Ioc
+namespace Weld.Ioc
 {
     /// <summary>
     /// Base type for weld containers, used by AdapterResolver to get the instance of adapters. Combine with the WeldContainerAttribute

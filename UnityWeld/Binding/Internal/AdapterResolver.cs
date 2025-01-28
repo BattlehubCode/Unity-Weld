@@ -1,9 +1,9 @@
 using System;
 using System.Linq;
 using System.Reflection;
-using UnityWeld.Ioc;
+using Weld.Ioc;
 
-namespace UnityWeld.Binding.Internal
+namespace Weld.Binding.Internal
 {
     /// <summary>
     /// Helper class for creating adapters

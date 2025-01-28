@@ -1,4 +1,4 @@
-﻿namespace UnityWeld.Binding
+﻿namespace Weld.Binding
 {
     /// <summary>
     /// Interface for wiring view-models into the hierarchy.

@@ -1,6 +1,6 @@
-﻿using System;
+using System;
 
-namespace UnityWeld.Binding
+namespace Weld.Binding
 {
     /// <summary>
     /// Attribute that defines what types an adapter can convert from and to.

@@ -1,4 +1,4 @@
-﻿namespace UnityWeld.Binding.Adapters
+﻿namespace Weld.Binding.Adapters
 {
     /// <summary>
     /// Adapter that converts a float to a string.

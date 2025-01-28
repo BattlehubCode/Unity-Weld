@@ -3,10 +3,10 @@ using System.Linq;
 using System.Reflection;
 using UnityEditor;
 using UnityEngine;
-using UnityWeld.Binding;
-using UnityWeld.Binding.Internal;
+using Weld.Binding;
+using Weld.Binding.Internal;
 
-namespace UnityWeld_Editor
+namespace Weld_Editor
 {
     /// <summary>
     /// A base editor for Unity-Weld bindings.

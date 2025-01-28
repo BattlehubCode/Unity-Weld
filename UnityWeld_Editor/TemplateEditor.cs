@@ -2,10 +2,10 @@ using System;
 using System.Linq;
 using UnityEditor;
 using UnityEngine;
-using UnityWeld.Binding;
-using UnityWeld.Binding.Internal;
+using Weld.Binding;
+using Weld.Binding.Internal;
 
-namespace UnityWeld_Editor
+namespace Weld_Editor
 {
     /// <summary>
     /// Editor for template bindings with a dropdown for selecting what view model

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace UnityWeld.Binding.Adapters
+namespace Weld.Binding.Adapters
 {
     /// <summary>
     /// Options for converting from a string to a DateTime using format from a specified

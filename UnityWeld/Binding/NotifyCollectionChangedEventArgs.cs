@@ -1,7 +1,7 @@
 using System;
 using System.Collections;
 
-namespace UnityWeld.Binding
+namespace Weld.Binding
 {
     public enum NotifyCollectionChangedAction
     {

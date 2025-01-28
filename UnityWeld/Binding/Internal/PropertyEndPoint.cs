@@ -2,7 +2,7 @@ using System;
 using System.Reflection;
 using UnityEngine;
 
-namespace UnityWeld.Binding.Internal
+namespace Weld.Binding.Internal
 {
     /// <summary>
     /// Represents an attachment to a property via reflection.

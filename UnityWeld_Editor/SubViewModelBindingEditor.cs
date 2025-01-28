@@ -1,11 +1,11 @@
 using UnityEngine;
 using UnityEditor;
-using UnityWeld.Binding;
-using UnityWeld.Binding.Internal;
+using Weld.Binding;
+using Weld.Binding.Internal;
 using System.Linq;
 using System.Reflection;
 
-namespace UnityWeld_Editor
+namespace Weld_Editor
 {
     /// <summary>
     /// Inspector window for SubViewModelBinding

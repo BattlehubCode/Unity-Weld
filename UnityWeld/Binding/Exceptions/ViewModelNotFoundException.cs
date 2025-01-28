@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UnityWeld.Binding.Exceptions
+namespace Weld.Binding.Exceptions
 {
     /// <summary>
     /// Exception thrown when the requested view-model could not be found.

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UnityWeld.Binding.Exceptions
+namespace Weld.Binding.Exceptions
 {
     /// <summary>
     /// Thrown when an attempt is made to bind to a property that must not be null.

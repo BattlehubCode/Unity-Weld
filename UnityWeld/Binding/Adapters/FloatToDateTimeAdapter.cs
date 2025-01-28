@@ -1,6 +1,6 @@
 using System;
 
-namespace UnityWeld.Binding.Adapters
+namespace Weld.Binding.Adapters
 {
     /// <summary>
     /// Adapter for converting from a float as an OADate to a DateTime.

@@ -1,9 +1,9 @@
 using System;
 using System.Linq;
 using UnityEngine.Events;
-using UnityWeld.Binding.Exceptions;
+using Weld.Binding.Exceptions;
 
-namespace UnityWeld.Binding.Internal
+namespace Weld.Binding.Internal
 {
     /// <summary>
     /// Factory for adding the correct type of listener to a generic UnityEvent, given a view model and 

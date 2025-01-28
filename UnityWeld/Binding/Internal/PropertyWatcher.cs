@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel;
 
-namespace UnityWeld.Binding.Internal
+namespace Weld.Binding.Internal
 {
     /// <summary>
     /// Watches an object for property changes and invokes an action when the property has changed.

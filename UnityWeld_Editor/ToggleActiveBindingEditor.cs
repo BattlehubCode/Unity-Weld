@@ -2,10 +2,10 @@ using System;
 using UnityEditor;
 using UnityEditor.AnimatedValues;
 using UnityEngine;
-using UnityWeld.Binding;
-using UnityWeld.Binding.Internal;
+using Weld.Binding;
+using Weld.Binding.Internal;
 
-namespace UnityWeld_Editor
+namespace Weld_Editor
 {
     [CustomEditor(typeof(ToggleActiveBinding))]
     public class ToggleActiveBindingEditor : BaseBindingEditor

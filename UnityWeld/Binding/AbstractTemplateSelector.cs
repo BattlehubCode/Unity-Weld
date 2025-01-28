@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 using UnityEngine.Assertions;
-using UnityWeld.Binding.Exceptions;
-using UnityWeld.Binding.Internal;
+using Weld.Binding.Exceptions;
+using Weld.Binding.Internal;
 
-namespace UnityWeld.Binding
+namespace Weld.Binding
 {
     public abstract class AbstractTemplateSelector : AbstractMemberBinding
     {

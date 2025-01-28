@@ -1,4 +1,4 @@
-﻿namespace UnityWeld.Binding.Adapters
+﻿namespace Weld.Binding.Adapters
 {
     /// <summary>
     /// Adapter for converting from a string to an int.

@@ -2,10 +2,10 @@ using System;
 using System.Collections;
 using System.Linq;
 using UnityEngine;
-using UnityWeld.Binding.Exceptions;
-using UnityWeld.Binding.Internal;
+using Weld.Binding.Exceptions;
+using Weld.Binding.Internal;
 
-namespace UnityWeld.Binding
+namespace Weld.Binding
 {
     /// <summary>
     /// Binds a property in the view-model that is a collection and instantiates copies

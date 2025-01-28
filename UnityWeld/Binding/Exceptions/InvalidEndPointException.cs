@@ -1,6 +1,6 @@
-﻿using System;
+using System;
 
-namespace UnityWeld.Binding.Exceptions
+namespace Weld.Binding.Exceptions
 {
     /// <summary>
     /// Thrown when an end-point reference was specified in an invalid way and could

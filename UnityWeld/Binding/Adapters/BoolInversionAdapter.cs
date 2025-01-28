@@ -1,4 +1,4 @@
-﻿namespace UnityWeld.Binding.Adapters
+﻿namespace Weld.Binding.Adapters
 {
     /// <summary>
     /// Adapter that inverts the value of the bound boolean property.

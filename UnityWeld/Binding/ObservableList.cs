@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace UnityWeld.Binding
+namespace Weld.Binding
 {
     public class ObservableList<T> : IList<T>, INotifyCollectionChanged, ITypedList
     {

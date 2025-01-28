@@ -5,9 +5,9 @@ using System.Reflection;
 using UnityEngine;
 using UnityEngine.Assertions;
 using UnityEngine.Events;
-using UnityWeld.Binding.Exceptions;
+using Weld.Binding.Exceptions;
 
-namespace UnityWeld.Binding.Internal
+namespace Weld.Binding.Internal
 {
     /// <summary>
     /// Information needed to bind to a UnityEvent on a component.

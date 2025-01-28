@@ -1,8 +1,8 @@
 using UnityEngine;
 using UnityEngine.Serialization;
-using UnityWeld.Binding.Internal;
+using Weld.Binding.Internal;
 
-namespace UnityWeld.Binding
+namespace Weld.Binding
 {
     /// <summary>
     /// Bind a property in the view model to one the UI, subscribing to OnPropertyChanged 

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UnityWeld.Binding
+namespace Weld.Binding
 {
     /// <summary>
     /// Mark a class, interface, method or property as bindable. Bindable methods and properties must 

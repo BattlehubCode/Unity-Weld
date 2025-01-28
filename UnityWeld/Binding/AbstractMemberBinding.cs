@@ -1,9 +1,9 @@
 using System.Linq;
 using UnityEngine;
-using UnityWeld.Binding.Exceptions;
-using UnityWeld.Binding.Internal;
+using Weld.Binding.Exceptions;
+using Weld.Binding.Internal;
 
-namespace UnityWeld.Binding
+namespace Weld.Binding
 {
     /// <summary>
     /// Base class for binders to Unity MonoBehaviours.
